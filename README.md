@@ -18,10 +18,10 @@ Open [Releases](https://github.com/Vaskodegamo01/ScanBridge-Releases/releases/la
 
 | File | Platform |
 |---|---|
-| `ScanBridge-Setup-0.1.0.exe` | Windows 10/11 x64 |
-| `ScanBridge-0.1.0-x86_64.AppImage` | Linux x86_64 (X11) |
-| `ScanBridge-0.1.0-amd64.deb` | Debian/Ubuntu x86_64 (X11) |
-| `ScanBridge-0.1.0-android.apk` | Android 9+ (sideload) |
+| `ScanBridge-Setup-0.1.1.exe` | Windows 10/11 x64 |
+| `ScanBridge-0.1.1-x86_64.AppImage` | Linux x86_64 (X11) |
+| `ScanBridge-0.1.1-amd64.deb` | Debian/Ubuntu x86_64 (X11) |
+| `ScanBridge-0.1.1-android.apk` | Android 9+ (sideload) |
 
 `SHA256SUMS.txt` contains the checksums for all files in the release.
 
@@ -36,7 +36,7 @@ sha256sum -c SHA256SUMS.txt
 On Windows PowerShell:
 
 ```powershell
-Get-FileHash .\ScanBridge-Setup-0.1.0.exe -Algorithm SHA256
+Get-FileHash .\ScanBridge-Setup-0.1.1.exe -Algorithm SHA256
 ```
 
 ### Notes
@@ -68,10 +68,10 @@ Get-FileHash .\ScanBridge-Setup-0.1.0.exe -Algorithm SHA256
 
 | Файл | Платформа |
 |---|---|
-| `ScanBridge-Setup-0.1.0.exe` | Windows 10/11 x64 |
-| `ScanBridge-0.1.0-x86_64.AppImage` | Linux x86_64 (X11) |
-| `ScanBridge-0.1.0-amd64.deb` | Debian/Ubuntu x86_64 (X11) |
-| `ScanBridge-0.1.0-android.apk` | Android 9+ (sideload) |
+| `ScanBridge-Setup-0.1.1.exe` | Windows 10/11 x64 |
+| `ScanBridge-0.1.1-x86_64.AppImage` | Linux x86_64 (X11) |
+| `ScanBridge-0.1.1-amd64.deb` | Debian/Ubuntu x86_64 (X11) |
+| `ScanBridge-0.1.1-android.apk` | Android 9+ (sideload) |
 
 `SHA256SUMS.txt` содержит контрольные суммы всех файлов релиза.
 
@@ -86,7 +86,7 @@ sha256sum -c SHA256SUMS.txt
 В Windows PowerShell:
 
 ```powershell
-Get-FileHash .\ScanBridge-Setup-0.1.0.exe -Algorithm SHA256
+Get-FileHash .\ScanBridge-Setup-0.1.1.exe -Algorithm SHA256
 ```
 
 ### Примечания
